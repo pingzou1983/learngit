@@ -7,4 +7,4 @@ test2
 
 test3
 
-master
+test
